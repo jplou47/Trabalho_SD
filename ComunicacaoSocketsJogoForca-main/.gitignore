@@ -1,0 +1,18 @@
+# Bytecodes compilados (gerados por `make`)
+bin/
+
+# Pasta de output de IDEs (IntelliJ, etc.)
+out/
+
+# Logs de execução do servidor
+logs/*.log
+logs/*.lck
+
+# Pastas de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Ficheiros de sistema
+.DS_Store
+Thumbs.db
