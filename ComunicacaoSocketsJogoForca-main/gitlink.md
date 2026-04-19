@@ -1,3 +1,2 @@
 # link do github
-
-https://github.com/joao-loureiro47/ComunicacaoSocketsJogoForca
+https://github.com/jplou47/Trabalho_SD
